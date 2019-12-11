@@ -10,7 +10,7 @@ but we introduced a new the new goal.
 Prediction usually works horizontally, level by level, but this approach does not
 take the vertical extent of the data into account.
 
-By contrast, ![this paper](doc/Blocking%20-%20A%20New%20Technique%20for%20Well%20Log%20Interpretation.pdf)
+By contrast, [this paper](doc/Blocking%20-%20A%20New%20Technique%20for%20Well%20Log%20Interpretation.pdf)
 suggest corrections to log values based on vertical logic.
 
 Our idea in this project is to combine both horizontal and vertical approaches. 
